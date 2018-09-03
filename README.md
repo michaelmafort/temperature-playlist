@@ -7,6 +7,7 @@ This microservice is able to solve challenge described in: [github:ifood/ifood-b
 - Docker suggestion: [Community edition](https://www.docker.com/products/docker-desktop)
 - Spotify account [register](https://www.spotify.com/br/signup/)
 - Spotify access token [generate test token](https://developer.spotify.com/console/get-search-item/)
+    -  Change the access token in `config.js` or define a environment variable `SPOTIFY_TOKEN`
   
 
 ## Setup
